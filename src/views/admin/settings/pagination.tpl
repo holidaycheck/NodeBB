@@ -19,14 +19,14 @@
 	<div class="col-sm-10 col-xs-12">
 		<form>
 			<strong>Posts per Page</strong><br /> <input type="text" class="form-control" value="20" data-field="postsPerPage">
-      <div class="checkbox">
-        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect">
-          <input class="mdl-switch__input" type="checkbox" data-field="countTopicInPagination">
-          <span class="mdl-switch__label"><strong>Count Topic as Post for pagination.</strong></span>
-        </label>
-      </div>
-    </form>
-  </div>
+			<div class="checkbox">
+				<label class="mdl-switch mdl-js-switch mdl-js-ripple-effect">
+					<input class="mdl-switch__input" type="checkbox" data-field="countTopicInPagination">
+					<span class="mdl-switch__label"><strong>Count Topic as Post for pagination.</strong></span>
+				</label>
+			</div>
+		</form>
+	</div>
 </div>
 
 <div class="row">
